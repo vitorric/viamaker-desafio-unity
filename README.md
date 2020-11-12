@@ -16,7 +16,7 @@ Se você não conseguir terminar o desafio por completo, não se preocupe, iremo
 6) Suba o seu projeto no GitHub.
 
 # Dicas
-- Dentro da pasta API, se encontra a documentação para manipula-la;
+- Dentro da pasta API, se encontra a documentação para manipula-la. Faça o download dela e abra o arquivo index.html;
 - A API é protegida por um token (Bearer), esse token se encontra no arquivo **TOKEN_API.txt** dentro da pasta API também;
 - Utilize o Canvas para criar a Interface do aplicativo;
 - Faça ele responsivo com qualidade HD;
