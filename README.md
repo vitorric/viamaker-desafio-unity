@@ -18,8 +18,10 @@ Se você não conseguir terminar o desafio por completo, não se preocupe, iremo
 # Dicas
 - Dentro da pasta API, se encontra a documentação para manipula-la. Faça o download dela e abra o arquivo index.html;
 - A API é protegida por um token (Bearer), esse token se encontra no arquivo **TOKEN_API.txt** dentro da pasta API também;
+- Faça ele responsivo com qualidade 1920x1080;
 - Utilize o Canvas para criar a Interface do aplicativo;
-- Faça ele responsivo com qualidade HD;
+- Utilize ScrollViews para criar as turmas/alunos;
+- Utilize Prefabs para elementos dinâmicos;
 - Utilize Coroutines para manipular as requisições;
 - Separe as camadas do projeto (acesso a API e banco por exemplo);
 - Você acha há coisas que possam ser melhoradas no seu código? Descreve no **README** do GitHub.
