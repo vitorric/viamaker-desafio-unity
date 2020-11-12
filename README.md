@@ -17,7 +17,7 @@ Se você não conseguir terminar o desafio por completo, não se preocupe, iremo
 
 # Dicas
 - Dentro da pasta API, se encontra a documentação para manipula-la;
-- A API é protegida por um token (Bearer), esse token se encontra dentro da pasta API também;
+- A API é protegida por um token (Bearer), esse token se encontra no arquivo **TOKEN_API.txt** dentro da pasta API também;
 - Utilize o Canvas para criar a Interface do aplicativo;
 - Faça ele responsivo com qualidade HD;
 - Utilize Coroutines para manipular as requisições;
