@@ -14,7 +14,7 @@ define({ "api": [
             "group": "Parameter",
             "type": "Number",
             "optional": false,
-            "field": "TurmaId",
+            "field": "turmaId",
             "description": ""
           }
         ]
